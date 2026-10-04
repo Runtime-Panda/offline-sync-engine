@@ -4,3 +4,5 @@ __pycache__/
 sync_database.db
 .env
 venv
+desktop.ini
+Thumbs.db
